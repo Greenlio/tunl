@@ -3,7 +3,7 @@ a serverless v2ray tunnel
 
 ## Deploy
 
-### Easy Deploy (recommended)
+### dEasy Deploy (recommended)
 click on the button below:
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/amiremohamadi/tunl)
