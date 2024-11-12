@@ -18,7 +18,7 @@
             "settings": {
                 "vnext": [
                     {
-                        "address": "localhost",
+                        "address": "104.17.190.55",
                         "port": 8787,
                         "users": [
                             {
